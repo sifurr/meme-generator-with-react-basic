@@ -1,0 +1,23 @@
+.navbar{
+  padding: 20px 20px;
+  display: flex;
+  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+}
+
+nav > img{
+  margin-right: 10px;
+}
+
+nav > h2{
+  font-size: 24px;
+  font-weight: 700;
+  color: #FFF;
+  letter-spacing: -2.075px;
+  margin-right: auto;
+}
+nav > h4{
+  font-size: 14px;
+  font-weight: 400;
+  color: #FFF;
+  margin-right: 37px;
+}
